@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Cloud Dev<br>
+🌱 Currently learning Cloud Dev<br>
 
 
 ## 🌐 Socials:
